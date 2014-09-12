@@ -1,6 +1,7 @@
 /*jshint node:true */
 module.exports = function( grunt ) {
 
+// Wee!
 require( "load-grunt-tasks" )( grunt );
 
 function process( code, filepath ) {
